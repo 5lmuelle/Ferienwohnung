@@ -7,3 +7,5 @@ public interface Buchung
     void aktualisiereBuchung(Buchungsinfos neueInfo);
     void stornieren();
 }
+
+//HalloMalte
